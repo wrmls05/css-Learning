@@ -1,0 +1,22 @@
+/* Element Selector*/
+/* This is p tag */
+p{
+    color: #ff0000;
+    text-align: center;
+}
+
+/* Class Selector*/
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 12px;
+}
+
+/* Id Selector*/
+#box2{
+    width: 300px;
+    height: 100px;
+    background-color: brown;
+    margin: 12px;
+}

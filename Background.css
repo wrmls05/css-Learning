@@ -1,0 +1,27 @@
+body{
+    /* 
+        1.background-color
+        2.background-imge
+        3.background-repeat
+        4.background-attachment
+        5background-position
+    */
+
+    background: url("https://w0.peakpx.com/wallpaper/887/923/HD-wallpaper-garden-waterfalls-garden-imge-nature-waterfalls.jpg") no-repeat fixed center;
+    background-size: cover;
+
+}
+
+    /* background-color: aquamarine;
+    background-image: url("https://w0.peakpx.com/wallpaper/887/923/HD-wallpaper-garden-waterfalls-garden-imge-nature-waterfalls.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; */
+
+.mybox{
+    width: 500px;
+    height: 500px;
+    background-image: url("img/cat_78bfd67941.png");
+    background-size: cover;
+}

@@ -1,0 +1,16 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: burlywood;
+    position: relative;
+}
+
+/* Chile Element */
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    overflow: auto;
+}

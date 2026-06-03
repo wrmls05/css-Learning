@@ -1,0 +1,56 @@
+/* ไว้เก็บต่างๆ */
+:root{
+    --black: #484747;
+    --container-width: 1140px
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: var(--container-width);
+    margin: 0 auto;
+    background-color: burlywood;
+    position: relative;
+
+    .box{
+    width: 300px;
+    height: 100px;
+    border: 1px solid var(--black);
+    padding: 10px;
+
+    p{
+        color: white;
+        background-color: red;
+    }
+    }
+    
+    .box2{
+    width: 200px;
+    height: 200px;
+    background-color: var(--black);
+    margin: 10px;
+    }
+
+    .box3{
+    width: 200px;
+    height: 200px;
+    background-color: var(--black);
+    margin: 10px;
+    }
+
+    .box4{
+    width: 200px;
+    height: 200px;
+    background-color: var(--black);
+    margin: 10px;
+    }
+
+    .box5{
+    width: 200px;
+    height: 200px;
+    background-color: var(--black);
+    margin: 10px;
+    }
+}

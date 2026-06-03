@@ -1,0 +1,18 @@
+/* ล็อกค่าให้ไม่ให้ใหญ่ขึ้น */
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: burlywood;
+    position: relative;
+}
+.box{
+    width: 300px;
+    height: 100px;
+    border: 1px solid red;
+    padding: 10px;
+
+}

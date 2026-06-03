@@ -1,0 +1,18 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: burlywood;
+    position: relative;
+}
+
+/* Pseudo Class : */
+a:hover{
+    background-color: blue;
+}
+
+/* Pseudo Element :: */
+p::first-line{
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+}
